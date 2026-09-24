@@ -1,0 +1,6 @@
+{
+  "name": "BistroSync Restaurant Management",
+  "description": "Comprehensive restaurant management system featuring customer and staff portals, live table availability, order processing, and real-time inventory tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
